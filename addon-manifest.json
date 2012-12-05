@@ -1,0 +1,14 @@
+{
+  "id": "saaspose",
+  "api": {
+    "config_vars": [
+      "SAASPOSE_URL",
+      "SAASPOSE_APPSID",
+      "SAASPOSE_APPKEY"
+    ],
+    "password": "00QzMuDXlnmFka0N",
+    "production": "http://saaspose.j.rsnx.ru/",
+    "test": "http://saaspose.j.rsnx.ru/"
+  }
+}
+
